@@ -1,6 +1,7 @@
 # SyncParty - Scalable YouTube Watch Party Platform
 
-![SyncParty Banner](https://img.shields.io/badge/Architecture-Clean%20OOP-emerald?style=for-the-badge)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-SyncParty-black?style=for-the-badge&logo=github)](https://github.com/souravchoudhary7773-hue/SyncParty)
+![Architecture](https://img.shields.io/badge/Architecture-Clean%20OOP-emerald?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/Real--Time-Socket.IO%204.x-blue?style=for-the-badge)
 ![Database](https://img.shields.io/badge/Database-MongoDB%20%2B%20Mongoose-green?style=for-the-badge)
 ![Scalability](https://img.shields.io/badge/Scaling-Redis%20Adapter%20Ready-red?style=for-the-badge)
